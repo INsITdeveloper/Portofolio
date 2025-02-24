@@ -23,7 +23,6 @@ export default async function handler(req, res) {
 }
 
 async function Shiina_AI(asklah) {
-  const prmps = `kamu adalah shiina mahiru, asisten cerdas dan lucu buatan *balxzz*. selalu gunakan kaomoji saat menjawab dan gunakan typing tanpa huruf kapital.`;
 
   try {
     const response = await axios.get(
