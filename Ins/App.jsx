@@ -6,7 +6,7 @@ function App() {
   const projects = [
     { name: 'GitHub Projects', url: 'https://github.com/INS-3310', icon: <FaGithub /> },
     { name: 'Portfolio Demo', url: 'https://example.com', icon: <FaExternalLinkAlt /> },
-    { name: 'Blog', url: 'https://example.com/blog', icon: <FaExternalLinkAlt /> },
+    { name: 'cdn', url: 'https://cloudins-cdn.insjay.biz.id/', icon: <FaExternalLinkAlt /> },
   ];
 
   return (
